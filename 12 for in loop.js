@@ -9,8 +9,6 @@ for (a in agents) {
   console.log(agents[a]);
 }
 
-//
-
 const numbers = [45, 4, 10, 16, 25];
 
 let num = 0;
